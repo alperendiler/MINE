@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876230260543",
+    "project_id": "mine-3e616",
+    "storage_bucket": "mine-3e616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876230260543:android:97a2b9b2f92ae69070c58a",
+        "android_client_info": {
+          "package_name": "com.alperendiler.mine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876230260543-1hlf80olpu3mk6kd4jq1lo6ntibm54bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKd1MEHJl5KMyb-fkae0IarzgMc5Z-6aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876230260543-1hlf80olpu3mk6kd4jq1lo6ntibm54bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
